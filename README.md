@@ -4,7 +4,7 @@
 ## Tarea 6
 
 ### Enlace al vídeo explicativo: 
-[Video tutorial](https://youtu.be/HuG1Ay2NTZI)
+[Video tutorial](https://youtu.be/f5qvisJ6S0M)
 
 ### Enlace al repostorio grupal:
 [Repositorio grupal](https://github.com/cifpfbmoll/hello-world-group.git)
