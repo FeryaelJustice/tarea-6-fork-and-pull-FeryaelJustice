@@ -4,9 +4,9 @@
 ## Tarea 6
 
 ### Enlace al vídeo explicativo: 
-[Video tutorial](https://youtu.be/f5qvisJ6S0M)
+[Vídeo tutorial](https://youtu.be/f5qvisJ6S0M)
 
-### Enlace al repostorio grupal:
+### Enlace al repositorio grupal:
 [Repositorio grupal](https://github.com/cifpfbmoll/hello-world-group.git)
 
 ### Tarea 6 
@@ -16,15 +16,15 @@ Hacemos fork.
 
 2. ![](steps/step2.jpg) 
 
-Elegimos a que grupo hacemos el fork.
+Elegimos a qué grupo hacer el fork.
 
 3. ![](steps/step3.jpg) 
 
-Vemos que se ha hecho el fork en nuestro perfil o organización.
+Comprobamos que se ha creado el fork en nuestro perfil o en la organización.
 
 4. ![](steps/step4.jpg) 
 
-Copiamos el link del repo para el clone.
+Copiamos el enlace del repositorio para clonarlo.
 
 5. ![](steps/step5.jpg) 
 
@@ -32,21 +32,21 @@ Hacemos el git clone.
 
 6. ![](steps/step6.jpg) 
 
-Cambiamos a nuestra branch.
+Cambiamos a nuestra rama.
 
 7. ![](steps/step7.jpg) 
 
-Hacemos cambios, git add y commit (repetimos 5 veces lo mismo con diferentes cambios a cada commit). Luego hacemos un push de todos los commits con git push.
+Hacemos cambios, ejecutamos git add y hacemos commit (repetimos el proceso cinco veces, con cambios diferentes en cada commit). Después, subimos todos los commits con git push.
 
 8. ![](steps/step8.jpg) 
 
-Abrimos pull request de nuestro repo forkeado al original.
+Abrimos una pull request desde nuestro repositorio forkeado hacia el original.
 
 9. ![](steps/step9.jpg) 
 
-Creamos el pull request detallando qué hemos cambiado.
+Creamos la pull request e indicamos qué hemos cambiado.
 
-10. Esperamos a que la organizacion nos acepte o rechaze el pull request, o podemos cancelar el pull request dandole al botón.
+10. Esperamos a que la organización acepte o rechace la pull request; también podemos cancelarla haciendo clic en el botón.
 
 ### TUTORIAL GITHUB GUIDES:
 1. ![](steps/step1tutorial.jpg) 
@@ -55,15 +55,15 @@ Hacemos fork.
 
 2. ![](steps/step2tutorial.jpg) 
 
-Elegimos a que grupo hacemos el fork.
+Elegimos a qué grupo hacer el fork.
 
 3. ![](steps/step3tutorial.jpg) 
 
-Vemos que se ha hecho el fork en nuestro perfil o organización.
+Comprobamos que se ha creado el fork en nuestro perfil o en la organización.
 
 4. ![](steps/step4tutorial.jpg) 
 
-Copiamos el link del repo para el clone.
+Copiamos el enlace del repositorio para clonarlo.
 
 5. ![](steps/step5tutorial.jpg) 
 
@@ -83,8 +83,8 @@ Hacemos push a nuestro fork.
 
 9. ![](steps/step9tutorial.jpg) 
 
-Abrimos pull request de nuestro repo forkeado al original.
+Abrimos una pull request desde nuestro repositorio forkeado hacia el original.
 
 10. ![](steps/step10tutorial.jpg) 
 
-Creamos el pull request detallando qué hemos cambiado.
+Creamos la pull request e indicamos qué hemos cambiado.
